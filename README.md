@@ -1,2 +1,6 @@
-# Smart-Water-Meter-Project
-This is our Smart Water Meter project as the final project of digitalent scholarship. Also compete in IOT Creation Maker Competition
+Indonesia
+Universitas Gadjah Mada
+Digitalent Scholarship Final Project: Internet of "things": Smart Water Meter using Thinger.io
+Author: I Gusti Bagus Awienandra, Herza Taufiq, Herry Wiratno
+Advisor: -
+September of 2019
